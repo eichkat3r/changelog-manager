@@ -1,4 +1,17 @@
 # CHANGELOG
+## 0.0.2
+### chg
+* flatten 'todo' command chain by providing add,fix,chg,rem options for todo
+
+### add
+* manage version numbers
+* removing tasks
+* sort changelog entries by action
+
+### fix
+* correct versions for tasks in changelog
+
+
 ## 0.0.1
 ### add
 * python markdown parser
@@ -7,15 +20,10 @@
 * set tasks to "done"
 
 
-## 0.0.2
+## 0.0.3
 ### add
-* manage version numbers
-* removing tasks
-* sort changelog entries by action
-
-### chg
-* flatten 'todo' command chain by providing add,fix,chg,rem options for todo
+* write setup script
 
 ### fix
-* correct versions for tasks in changelog
+* version increment error
 

@@ -1,5 +1,5 @@
-from util import *
-from version import Version
+from .util import *
+from .version import Version
 
 class Changelog(object):
     def __init__(self, name, filename):
