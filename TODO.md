@@ -5,7 +5,6 @@
 * todo.txt support
 * full text search
 * tag/category based search
-* colored output for list command
 * help command
 * apply "do" to all tasks with a certain tag
 * verbose output
@@ -23,11 +22,11 @@
 * write README
 * add tasks to changelog directly
 * filter TODO marked comments from project files and append them to TODO.md
+* persistent enumeration of tasks
 
 
 ## Fix
 * error handling routines
-* create CHANGELOG.md and TODO.md if not existing
 
 
 ## Remove
